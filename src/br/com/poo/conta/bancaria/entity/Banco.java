@@ -13,6 +13,11 @@ public class Banco {
     private int codigo;
     private String nome;
 
+    @Override
+    public String toString() {
+        return "Banco{" + "codigo=" + codigo + ", nome=" + nome + '}';
+    }
+
     public Banco() {
     }
 

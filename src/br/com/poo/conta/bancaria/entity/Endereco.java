@@ -21,6 +21,11 @@ public class Endereco {
     
     }
 
+    @Override
+    public String toString() {
+        return "Endereco{" + "rua=" + rua + ", numero=" + numero + ", complemento=" + complemento + ", bairro=" + bairro + ", uf=" + uf + ", Cep=" + Cep + '}';
+    }
+
     public Endereco(String rua, int numero, String complemento, String bairro, String uf, String Cep) {
         this.rua = rua;
         this.numero = numero;

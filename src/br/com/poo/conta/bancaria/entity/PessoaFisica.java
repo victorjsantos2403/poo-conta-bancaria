@@ -41,6 +41,11 @@ public class PessoaFisica extends Pessoa {
         return endereco;
     }
 
+    @Override
+    public String toString() {
+        return "PessoaFisica{" + "cpf=" + cpf + ", endereco=" + endereco + ", contato=" + contato + ", conta=" + conta + '}';
+    }
+
     public void setEndereco(Endereco endereco) {
         this.endereco = endereco;
     }
@@ -60,14 +65,5 @@ public class PessoaFisica extends Pessoa {
     public void setConta(Conta conta) {
         this.conta = conta;
     }
-    
-    
-    
-    public void cadastrarPessoa() {
-        
-    }
-    
-    
-    
     
 }

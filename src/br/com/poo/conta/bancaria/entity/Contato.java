@@ -28,6 +28,11 @@ public class Contato {
         return telefone;
     }
 
+    @Override
+    public String toString() {
+        return "Contato{" + "telefone=" + telefone + ", celular=" + celular + ", email=" + email + '}';
+    }
+
     public void setTelefone(String telefone) {
         this.telefone = telefone;
     }

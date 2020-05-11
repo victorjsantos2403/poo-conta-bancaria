@@ -15,6 +15,11 @@ public class PessoaJuridica extends Pessoa {
     private Contato contato;
     private Conta conta;
 
+    @Override
+    public String toString() {
+        return "PessoaJuridica{" + "cnpj=" + cnpj + ", endereco=" + endereco + ", contato=" + contato + ", conta=" + conta + '}';
+    }
+
     public PessoaJuridica() {
     
     }

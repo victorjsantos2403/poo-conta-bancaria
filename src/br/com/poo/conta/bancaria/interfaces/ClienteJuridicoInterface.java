@@ -5,10 +5,12 @@
  */
 package br.com.poo.conta.bancaria.interfaces;
 
+import br.com.poo.conta.bancaria.entity.PessoaJuridica;
+
 /**
  *
  * @author victorjesus
  */
 public interface ClienteJuridicoInterface {
-    
+    public PessoaJuridica cadastrarConta();
 }
