@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/entity/Endereco.java</file>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/entity/Contato.java</file>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/PooContaBancaria.java</file>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/entity/Banco.java</file>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/entity/Pessoa.java</file>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/app/ClienteFisicoApp.java</file>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/entity/PessoaFisica.java</file>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/entity/Agencia.java</file>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/interfaces/ClienteJuridicoInterface.java</file>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/entity/PessoaJuridica.java</file>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/interfaces/ClienteFisicoInterface.java</file>
+            <file>file:/Users/victorjesus/NetBeansProjects/poo-conta-bancaria/src/br/com/poo/conta/bancaria/entity/Conta.java</file>
+        </group>
+    </open-files>
+</project-private>
